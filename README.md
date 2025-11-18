@@ -1,4 +1,4 @@
-# 🚆 Kiểm thử Hệ thống Đặt vé Tàu (Railway System Testing)
+# 🚆 Kiểm thử hệ thống đặt vé tàu
 
 **Thời gian:** 15/10/2024 – 14/11/2024  
 **Số lượng thành viên:** 2  
@@ -6,7 +6,7 @@
 ---
 
 ## Mô tả dự án
-Dự án **Railway System** là một hệ thống **đặt vé tàu trực tuyến**, cho phép người dùng **đăng ký, đăng nhập và đặt vé theo các tuyến có sẵn**.  
+Dự án **Kiểm thử hệ thống đặt vé tàu** là một hệ thống **đặt vé tàu trực tuyến**, cho phép người dùng **đăng ký, đăng nhập và đặt vé theo các tuyến có sẵn**.  
 Giai đoạn **kiểm thử** được thực hiện để đảm bảo hệ thống **hoạt động chính xác, không có lỗi nghiêm trọng và mang lại trải nghiệm mượt mà cho người dùng** trước khi triển khai chính thức.  
 
 ---
